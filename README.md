@@ -4,6 +4,8 @@
 ##  What is it?
 ##  -----------
 Several php scripts with code for image animation. Sources was done for site http://ffmpeg.unixoun.com
+
+
 	+	zoom_out
 	+	pan_down
 	+	pan_left
