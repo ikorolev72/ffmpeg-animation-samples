@@ -1,0 +1,14 @@
+*.zip
+*.rar
+*.tar
+*.tgz
+*.mp3
+*.mp4
+*.tar.gz
+*.db
+*.log
+tmp/*
+html/media/*
+data/log/*
+data/var/*
+
