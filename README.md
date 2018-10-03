@@ -12,6 +12,8 @@ Several php scripts with code for image animation. Sources was done for site htt
 	+	pan_right
 	+	pan_up
 	+	zoom_in
+	+	rotate_cw
+	+	rotate_ccw
 
 
 ##  What's new
