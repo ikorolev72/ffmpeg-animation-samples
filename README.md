@@ -3,7 +3,7 @@
 
 ##  What is it?
 ##  -----------
-Several php scripts with code for image animation. Sources was done for site http://ffmpeg.unixoun.com
+Several php scripts with code for image animation. Sources was done for site http://ffmpeg.unixpin.com
 
 
 	+	zoom_out
